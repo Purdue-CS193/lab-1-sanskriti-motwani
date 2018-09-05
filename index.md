@@ -2,8 +2,8 @@
 # Sanskriti's first CS193 LAB
 
 ## Things I like about CS193:)
--it has lab sessions
--it helps you understand basic things you might need as a CS student that are not taught in class
+- it has lab sessions
+- it helps you understand basic things you might need as a CS student that are not taught in class
 
 
 
